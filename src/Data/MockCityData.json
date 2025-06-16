@@ -6,8 +6,7 @@
         "rating": "4.5 ⭐",
         "description": "Iconic monument in Hyderabad",
         "images": [
-            "/src/assets/images/charminar-1.png",
-            "/src/assets/images/charminar-2.png"
+           "https://media.hitex.co.in/posts/2022/charminar-the-arc-de-triomphe-of-the-east.jpg?1658579435"
         ]
     },
     {
@@ -17,8 +16,8 @@
         "rating": "4.2 ⭐",
         "description": "famous biryani spot",
         "images": [
-            "/src/assets/images/paradise.png",
-            "/src/assets/images/paradise2.png"
+            "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTQsABtitALBC0q2u-rphOdO-w0_dva7k2xP2UJdwtrBMup3144yFG1SOHK&s=10",
+            "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTm8SP_F0sn4cLikTEG3JrAGJ1FtdusZknJMaa0ecHjgOjajQAdxMOmRyQ8&s=10"
         ]
     },
     {
@@ -28,8 +27,7 @@
         "rating": "4.8 ⭐",
         "description": "World heritage site",
         "images": [
-            "/src/assets/images/golconda.png",
-            "/src/assets/images/golconda2.png"
+            "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhNrj5W8fLc1et-2GDTamMfFfdUIHNOZp6o7UhToB_nO5g3Tf-HOlkOghk66TSIkC9jZdU7V1IHrGITtwHyuPmwReXll9cSr5z_jbT5EFTs0O4YY1K4lhLIoS-z_Zdd_SOc6g97rIlPmhMv7JZiTlAh6VXnd-4gyVy-nNe8jlNTyfm75ty_F3FIQufTTky4/s1200/21%20Golconda%20upper%20fortifications.jpg"
         ]
     },
     {
@@ -39,7 +37,7 @@
         "rating": "4.2 ⭐",
         "description": "one-stop destination for shoppers",
         "images": [
-            "/src/assets/images/Inorbit-mall-.png"
+            "https://media.telanganatoday.com/wp-content/uploads/2023/12/Inorbit-mall-.jpg"
         ]
     },
     {
@@ -49,7 +47,7 @@
         "rating": "4.4 ⭐",
         "description": "The Museum is a royal treat for art collectors with its 43,000 art objects and 50,000 priceless books and manuscripts",
         "images": [
-            "/src/assets/images/salarjung2.png"
+            "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRgXFuPdhyzDINhucbLsobpJAomWQLny9lYeg&s"
         ]
     },
     {
@@ -59,8 +57,8 @@
         "rating": "4.6 ⭐",
         "description": "Lumbini Park, officially T. Anjaiah Lumbini Park, is a small public, urban park of 3 hectares adjacent to Hussain Sagar in Hyderabad, India",
         "images": [
-            "/src/assets/images/lumbini1.png",
-            "/src/assets/images/lumbini2.png"
+            "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTjTQhkzr_FKdhEAfX-290ZjFPu0VE4G-eKug&s",
+            "https://upload.wikimedia.org/wikipedia/commons/c/c2/Lumbini_Park%2C_Hyderabad.jpg"
         ]
     },
     {
@@ -70,8 +68,8 @@
         "rating": "4.3 ⭐",
         "description": "This informal resort is 4 minutes' walk from Mrugavani National Park and 12 km from Golkonda, a citadel and former capital of a medieval kingdom.",
         "images": [
-            "/src/assets/images/mrugavani.png",
-            "/src/assets/images/mrugavani1.png"
+            "https://cf.bstatic.com/xdata/images/hotel/max1024x768/65691438.jpg?k=a08a67d1a70c3e63d5331c09c9bc5b192c564b160805ebac8c1ffad4d209cbb5&o=&hp=1",
+            "https://r1imghtlak.mmtcdn.com/fc5d06ba716c11e79216025f77df004f.jpg"
         ]
     },
     {
@@ -81,7 +79,7 @@
         "rating": "4.4 ⭐",
         "description": "The Rajiv Gandhi International Cricket Stadium, commonly known as Uppal Stadium, is an international cricket stadium in Hyderabad, Telangana, India. It is owned and operated by Hyderabad Cricket Association (HCA). It is the home ground of Hyderabad cricket team and Hyderabad women's cricket team",
         "images": [
-            "/src/assets/images/uppal.png"
+            "https://hycricket.org/img/stadium/stadium-1.jpg"
         ]
     },
     {
@@ -91,7 +89,7 @@
         "rating": "4.5⭐",
         "description": "Very Good Service and Staff, Amazing Interiors, Fantastic Decoration, Cheap and Affordable, Clean and Hygienic Place, Awesome Spot to Hangout",
         "images": [
-            "/src/assets/images/dining.png"
+            "https://content.jdmagicbox.com/v2/comp/hyderabad/g9/040pxx40.xx40.201231174454.s7g9/catalogue/anandobrahma-restaurant-and-caterers-ameerpet-hyderabad-restaurants-tcwqf8f3h9-250.jpg"
         ]
     }
 ]
