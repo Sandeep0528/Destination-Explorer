@@ -1,0 +1,77 @@
+[
+    {
+        "id": 1,
+        "name": "Charminar",
+        "category": "Heritage",
+        "rating": 4.5,
+        "description": "Iconic monument in Hyderabad",
+        "images": [
+            "/src/assets/images/charminar-1.jpg",
+            "/src/assets/images/charminar-2.jpeg"
+        ]
+    },
+    {
+        "id": 2,
+        "name": "Paradise Biryani",
+        "category": "food",
+        "rating": 4.2,
+        "description": "famous biryani spot",
+        "images": [
+            "/src/assets/images/paradise.jpeg",
+            "/src/assets/images/paradise2.jpg"
+        ]
+    },
+    {
+        "id": 3,
+        "name": "Golconda fort",
+        "category": "Heritage",
+        "rating": 4.8,
+        "description": "World heritage site",
+        "images": [
+            "/src/assets/images/golconda.jpg",
+            "/src/assets/images/golconda2.jpg"
+        ]
+    },
+    {
+        "id": 4,
+        "name": "Inorbit mall",
+        "category": "Shopping Mall & Cineplex",
+        "rating": 4.2,
+        "description": "one-stop destination for shoppers",
+        "images": [
+            "/src/assets/images/Inorbit-mall-.jpg"
+        ]
+    },
+    {
+        "id": 5,
+        "name": "Salarjung Museum",
+        "category": "Museum",
+        "rating": 4.4,
+        "description": "The Museum is a royal treat for art collectors with its 43,000 art objects and 50,000 priceless books and manuscripts",
+        "images": [
+            "/src/assets/images/salarjung2.jpg"
+        ]
+    },
+    {
+        "id": 6,
+        "name": "Lumbini Park",
+        "category": "Park",
+        "rating": 4.6,
+        "description": "Lumbini Park, officially T. Anjaiah Lumbini Park, is a small public, urban park of 3 hectares adjacent to Hussain Sagar in Hyderabad, India",
+        "images": [
+            "/src/assets/images/lumbini1.jpeg",
+            "/src/assets/images/lumbini2.jpeg"
+        ]
+    },
+    {
+        "id": 7,
+        "name": "Mrugavani resort & Spa",
+        "category": "Resort",
+        "rating": 4.3,
+        "description": "This informal resort is 4 minutes' walk from Mrugavani National Park and 12 km from Golkonda, a citadel and former capital of a medieval kingdom.",
+        "images": [
+            "/src/assets/images/mrugavani.jpeg",
+            "/src/assets/images/lumbini2.jpeg"
+        ]
+    }
+]

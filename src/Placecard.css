@@ -1,0 +1,33 @@
+.place-card {
+    border: 1px solid #ccc;
+    border-radius: 8px;
+    padding: 1rem;
+    background-color: #f9f9f9;
+    transition: box-shadow 0.2s;
+}
+
+.place-card img {
+    width: 100%;
+    height: auto;
+    border-radius: 4px;
+}
+
+.place-card button {
+    margin-top: 0.5rem;
+    background-color: #1e90ff;
+    color: white;
+    border: none;
+    padding: 0.5rem 1rem;
+    border-radius: 4px;
+    cursor: pointer;
+}
+
+.place-details {
+    margin-top: 1rem;
+}
+
+.place-gallery img {
+    width: 60px;
+    margin: 0.25rem;
+    border-radius: 4px;
+}
