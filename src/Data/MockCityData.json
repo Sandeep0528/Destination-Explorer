@@ -6,8 +6,8 @@
         "rating": "4.5 ⭐",
         "description": "Iconic monument in Hyderabad",
         "images": [
-            "/src/assets/images/charminar-1.jpg",
-            "/src/assets/images/charminar-2.jpeg"
+            "/src/assets/images/charminar-1.png",
+            "/src/assets/images/charminar-2.png"
         ]
     },
     {
@@ -17,8 +17,8 @@
         "rating": "4.2 ⭐",
         "description": "famous biryani spot",
         "images": [
-            "/src/assets/images/paradise.jpeg",
-            "/src/assets/images/paradise2.jpg"
+            "/src/assets/images/paradise.png",
+            "/src/assets/images/paradise2.png"
         ]
     },
     {
@@ -28,8 +28,8 @@
         "rating": "4.8 ⭐",
         "description": "World heritage site",
         "images": [
-            "/src/assets/images/golconda.jpg",
-            "/src/assets/images/golconda2.jpg"
+            "/src/assets/images/golconda.png",
+            "/src/assets/images/golconda2.png"
         ]
     },
     {
@@ -39,7 +39,7 @@
         "rating": "4.2 ⭐",
         "description": "one-stop destination for shoppers",
         "images": [
-            "/src/assets/images/Inorbit-mall-.jpg"
+            "/src/assets/images/Inorbit-mall-.png"
         ]
     },
     {
@@ -49,7 +49,7 @@
         "rating": "4.4 ⭐",
         "description": "The Museum is a royal treat for art collectors with its 43,000 art objects and 50,000 priceless books and manuscripts",
         "images": [
-            "/src/assets/images/salarjung2.jpg"
+            "/src/assets/images/salarjung2.png"
         ]
     },
     {
@@ -59,8 +59,8 @@
         "rating": "4.6 ⭐",
         "description": "Lumbini Park, officially T. Anjaiah Lumbini Park, is a small public, urban park of 3 hectares adjacent to Hussain Sagar in Hyderabad, India",
         "images": [
-            "/src/assets/images/lumbini1.jpeg",
-            "/src/assets/images/lumbini2.jpeg"
+            "/src/assets/images/lumbini1.png",
+            "/src/assets/images/lumbini2.png"
         ]
     },
     {
@@ -70,8 +70,8 @@
         "rating": "4.3 ⭐",
         "description": "This informal resort is 4 minutes' walk from Mrugavani National Park and 12 km from Golkonda, a citadel and former capital of a medieval kingdom.",
         "images": [
-            "/src/assets/images/mrugavani.jpg",
-            "/src/assets/images/mrugavani1.jpg"
+            "/src/assets/images/mrugavani.png",
+            "/src/assets/images/mrugavani1.png"
         ]
     },
     {
@@ -81,7 +81,7 @@
         "rating": "4.4 ⭐",
         "description": "The Rajiv Gandhi International Cricket Stadium, commonly known as Uppal Stadium, is an international cricket stadium in Hyderabad, Telangana, India. It is owned and operated by Hyderabad Cricket Association (HCA). It is the home ground of Hyderabad cricket team and Hyderabad women's cricket team",
         "images": [
-            "/src/assets/images/uppal.jpeg"
+            "/src/assets/images/uppal.png"
         ]
     },
     {
@@ -91,7 +91,7 @@
         "rating": "4.5⭐",
         "description": "Very Good Service and Staff, Amazing Interiors, Fantastic Decoration, Cheap and Affordable, Clean and Hygienic Place, Awesome Spot to Hangout",
         "images": [
-            "/src/assets/images/dining.jpeg"
+            "/src/assets/images/dining.png"
         ]
     }
 ]
