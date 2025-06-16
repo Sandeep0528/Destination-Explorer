@@ -6,7 +6,7 @@ import PlaceList from './Components/PlaceList'
 import ScrollToTopButton from './Components/ScrollToTopButton'
 import mockData from "./Data/MockCityData.json"
 import Footer from './Components/Footer'
-import images from './src/assets/images'
+
 const App = () => {
     const [category, setCategory] = useState("All");
     const [rating, setRating] = useState(0);
